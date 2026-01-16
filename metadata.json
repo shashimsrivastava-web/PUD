@@ -1,0 +1,7 @@
+{
+  "name": "AssetFlow: Intelligent Disposition Tracker",
+  "description": "A professional inventory management system with barcode scanning, automated disposition tracking, and AI-powered remarks, designed to sync with backend data systems like Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
